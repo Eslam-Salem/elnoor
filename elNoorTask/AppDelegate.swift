@@ -10,7 +10,7 @@ import UIKit
 import GoogleMaps
 import UserNotifications
 
-let googleApiKey = "AIzaSyB_MDqI1cFReiAhaHe5P-w9jNK1JyaCRVU"
+let googleApiKey = "YOUR-API-KEY-HERE"
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate, UNUserNotificationCenterDelegate {
