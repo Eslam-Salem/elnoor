@@ -5,8 +5,16 @@ type - Restricts the results to places matching the specified type. Only one typ
 So the first vc let the user choose searching type.
 
 # When To Use 
-it will help users to find near (Banks or mosque) when be in a vaciation or holiday in a country you didn't visit before.
+- it will help users to find near (Banks or mosques) when be in a vaciation or holiday in a country you didn't visit before.
+- will recieve notification when you became near from the place you searching for.
 
+# How to use 
+first screen asks you to choose what you are searching for (mosques or Banks) after you make your choose click Start searching to show the result in google Maps 
+
+
+# Requirment
+- you need to get you APi Key and put it in the value of googleApiKey constant in AppDelegate.swift File 
+- visit [google Docs](https://developers.google.com/maps/documentation/ios-sdk/intro) to create your Api-Key
 
 # Pin Icons
 - Bank -> fork
